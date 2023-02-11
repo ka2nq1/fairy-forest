@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fairy-forest/static/css/main.16b31d69.css",
+    "main.js": "/fairy-forest/static/js/main.edbe3bd9.js",
+    "static/media/raleway-regular.woff2": "/fairy-forest/static/media/raleway-regular.ac6d55fb99dbe0ca591e.woff2",
+    "static/media/raleway-black.woff2": "/fairy-forest/static/media/raleway-black.29ecbb2e11ee94003b30.woff2",
+    "index.html": "/fairy-forest/index.html",
+    "main.16b31d69.css.map": "/fairy-forest/static/css/main.16b31d69.css.map",
+    "main.edbe3bd9.js.map": "/fairy-forest/static/js/main.edbe3bd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b31d69.css",
+    "static/js/main.edbe3bd9.js"
+  ]
+}
