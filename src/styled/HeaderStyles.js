@@ -59,6 +59,7 @@ export const HeaderStyles = styled.div`
     }
 
     .main-header__base {
+        background-image: url("img/layer-base.png");
         transform: translate3d(0, calc(var(--scrollTop) / 1.6), 0);
     }
 
