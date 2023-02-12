@@ -4,7 +4,7 @@ import { ContentStyles } from '../../styled/ContentStyles';
 const Content = () => {
     return (
         <ContentStyles>
-            <article className="main-article" style={{backgroundImage: "url(img/dungeon.jpg)"}}>
+            <article className="main-article" style={{backgroundImage: `url(${window.location.href}/img/dungeon.jpg)`}}>
                 <div className="main-article__content">
                     <h2 className="main-article__title">Description</h2>
                     <p className="main-article__text">

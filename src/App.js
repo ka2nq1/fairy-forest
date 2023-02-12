@@ -4,7 +4,6 @@ import Cursor from './components/Cursor';
 import Header from './components/Header';
 
 function App() {
-
     return (
         <>
             <Cursor/>

@@ -10,7 +10,7 @@ export const HeaderStyles = styled.div`
             z-index: 10;
             width: 100%;
             height: calc(var(--index) * 10);
-            background-image: url("img/ground.png");
+            background-image: url('${window.location.href}/img/ground.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -59,7 +59,6 @@ export const HeaderStyles = styled.div`
     }
 
     .main-header__base {
-        background-image: url("img/layer-base.png");
         transform: translate3d(0, calc(var(--scrollTop) / 1.6), 0);
     }
 
