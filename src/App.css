@@ -28,3 +28,7 @@ body {
   line-height: 1.55;
   will-change: transform;
 }
+
+*::selection {
+  background-color: rgba(128, 128, 128, 0.189);
+}
